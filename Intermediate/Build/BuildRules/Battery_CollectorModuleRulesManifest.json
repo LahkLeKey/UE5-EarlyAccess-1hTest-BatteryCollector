@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Github\\Battery_Collector\\Source\\Battery_Collector\\Battery_Collector.Build.cs",
+		"E:\\Github\\Battery_Collector\\Source\\Battery_Collector.Target.cs",
+		"E:\\Github\\Battery_Collector\\Source\\Battery_CollectorEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

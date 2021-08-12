@@ -1,0 +1,16 @@
+﻿  '"E:\UE_5.0EA\Engine\Build\BatchFiles\GetDotnetPath.bat"' is not recognized as an internal or external command,
+  operable program or batch file.
+  Win64 using Manual SDK 10.0.19041.0
+  Invalidating makefile for Battery_CollectorEditor (Battery_CollectorGameMode.cpp modified)
+  Building Battery_CollectorEditor...
+  Using Visual Studio 2019 14.29.30040 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Battery_Collector unity file: BatteryMan.cpp, BatteryMan_GameMode.cpp, Battery_Collector.cpp, Battery_CollectorCharacter.cpp, Battery_CollectorGameMode.cpp
+  Building 4 actions with 8 processes...
+    [1/4] Battery_CollectorGameMode.cpp
+    [2/4] UnrealEditor-Battery_Collector-0046.lib
+       Creating library E:\Github\Battery_Collector\Intermediate\Build\Win64\UnrealEditor\Development\Battery_Collector\UnrealEditor-Battery_Collector-0046.lib and object E:\Github\Battery_Collector\Intermediate\Build\Win64\UnrealEditor\Development\Battery_Collector\UnrealEditor-Battery_Collector-0046.exp
+    [3/4] UnrealEditor-Battery_Collector-0046.dll
+       Creating library E:\Github\Battery_Collector\Intermediate\Build\Win64\UnrealEditor\Development\Battery_Collector\UnrealEditor-Battery_Collector-0046.suppressed.lib and object E:\Github\Battery_Collector\Intermediate\Build\Win64\UnrealEditor\Development\Battery_Collector\UnrealEditor-Battery_Collector-0046.suppressed.exp
+    [4/4] Battery_CollectorEditor.target
+  Total time in Parallel executor: 3.92 seconds
+  Total execution time: 6.57 seconds

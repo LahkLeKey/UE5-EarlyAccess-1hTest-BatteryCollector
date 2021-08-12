@@ -1,0 +1,6 @@
+# Files over 100MB
+*.db
+*.pdb
+*.ipch
+*.pch
+*.ucas
